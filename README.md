@@ -41,6 +41,13 @@ Built a Raspberry Pi prototype that recognizes sign-language gestures from a web
 
 **[Explore the code →](https://github.com/SantiagoMoreno0123/Sign-Language-Detection-with-YOLO)**
 
+### Recognition & community
+
+- 🏆 **BiosensorMed — 1st Prize (student category) and Austral Venture Award, XIX Entrepreneurship Ideas Contest, University of Seville (2024).** Member of the winning team. [University announcement](https://stce.us.es/noticias/las-iniciativas-biosensormed-y-easechain-ganan-el-xix-concurso-de-ideas-de-emprendimiento).
+- 🎓 **Berkeley Method of Entrepreneurship Bootcamp (UC Berkeley, 2024).** Attended as part of the prize awarded to the BiosensorMed team. [University story](https://www.us.es/actualidad-de-la-us/dos-estudiantes-de-la-us-cursan-el-berkeley-method-entrepreneurship-bootcamp).
+- 🧩 **FIRST LEGO League Seville (2024 & 2025).** Technical event staff, helping with setup, on-site support and referee duties.
+- 🤝 **ROSCon España 2024, Universidad Pablo de Olavide.** Technical event staff with the Service Robotics Lab, supporting conference setup and on-site operations. [Event announcement](https://www.upo.es/upotec/contenidos/noticias/2024/sep/19/roscon-espana-2024-reunira-la-comunidad-robotica-e/).
+
 ### About me
 
 I have a Master's degree in Electronics, Robotics and Automation Engineering from the University of Seville. At the Service Robotics Lab, I work on AI-driven robotics and drone projects, with interests in human–robot interaction, perception and autonomous systems.
